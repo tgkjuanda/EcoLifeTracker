@@ -44,3 +44,12 @@ README.md
 **License 📝**
 
 This project is licensed under the MIT License. Copyright (c) [Year] [Author].
+
+## 🤝 Contributors
+
+This project is a collaborative effort between human ingenuity and artificial intelligence:
+
+*   **[tgkjuanda](https://github.com/tgkjuanda)** - Project Owner & System Architect
+*   **AI Autonomous Developer Crew** - Automated Code Generation, Review, and Documentation (Powered by Qwen & Llama models)
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/tgkjuanda/EcoLifeTracker/issues).
